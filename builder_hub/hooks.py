@@ -8,7 +8,7 @@ app_license = "mit"
 # Apps
 # ------------------
 
-required_apps = ["builder"]
+required_apps = []
 
 # Sync the hub's template fixtures into this site's DB (published, so their
 # routes resolve for public Preview). Reuses builder's importer pointed at this
